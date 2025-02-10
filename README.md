@@ -2,6 +2,9 @@
 
 This script converts a JSON product export into a Shopify-compatible CSV import file, with proper handling of variants, images, and all product attributes.
 
+## How it works
+Example url https://patiopelican.com/products.json?limit=250&page=1 that will download products.json which is equal to products_example.json inside project folder
+
 ## Features
 
 - Converts product JSON data to Shopify CSV format
